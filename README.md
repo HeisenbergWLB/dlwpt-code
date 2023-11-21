@@ -1,7 +1,7 @@
 # Deep Learning with PyTorch
 
-This repository contains code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann, published by Manning Publications.
-这是《Pytorch深度学习实战》的代码书，是一个Pytorch和深度学习入门书籍。
+这是《Pytorch深度学习实战》的代码书，是一个Pytorch和深度学习入门书籍。  
+This repository contains code for the book Deep Learning with PyTorch by Eli Stevens, Luca Antiga, and Thomas Viehmann, published by Manning Publications.  
 
 ![Image of the cover for Deep Learning with PyTorch](data/Stevens-DLPy-HI.png)
 
